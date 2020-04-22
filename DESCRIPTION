@@ -1,0 +1,17 @@
+Package: rootfind
+Title: This finds roots 
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "Steve",
+           family = "Pittard",
+           role = c("aut", "cre"),
+           email = "wsp@emory.edu",
+           comment = c(ORCID = "YOUR-ORCID-ID"))
+Description: This package is so cool. It finds roots. It will handle negative
+     numbers and returns complex values. I will soon update it to do far
+     greater things that will blow your mind. 
+License: GPL-2
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.0
